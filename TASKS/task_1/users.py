@@ -53,7 +53,8 @@ def add_user(list):
         })
     return list
 
-# search for a matching username/поиск совпадающего логина
+# def login_search()search for a matching username/поиск совпадающего
+# логина
 # outputs the index of the user's dictionary/выводит индекс словаря
 #  пользователя
 def login_search(list):
